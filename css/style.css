@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto");
+
+@import url("components/container.css");
+@import url("components/projects.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/me.css");
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Bebas Neue', sans-serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: whitesmoke;
+}
